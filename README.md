@@ -1,0 +1,1 @@
+By doing programming exercises, I will be able to study and practice various programming concepts and techniques. I will be working with algorithms, data structures, loops, control structures, functions and more. These exercises can range from simple to complex, allowing me to gradually improve my skills and build confidence in my ability to solve problems with code.
